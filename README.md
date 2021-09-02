@@ -1,2 +1,2 @@
-# React_First_Project
+# Software Company Website (ReactJS)
 This is my first React project.
